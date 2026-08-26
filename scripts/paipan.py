@@ -7,8 +7,8 @@
 历法库计算四柱八字，确保日柱、时柱等所有干支绝对准确，杜绝手工推算错误。
 
 用法：
-    python3 paipan.py --solar 1987-05-13 --hour 2 --gender male
-    python3 paipan.py --solar 1990-05-15 --shichen 午 --gender female
+    python3 paipan.py --solar 1990-05-15 --shichen 未 --gender female
+    python3 paipan.py --solar 1988-10-01 --hour 23 --gender male
 
 参数：
     --solar    阳历日期，格式 YYYY-MM-DD（必填）
